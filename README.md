@@ -15,10 +15,16 @@
 **### $\frac{\partial f}{\partial x}= \frac{2x \ln(3) \cdot 3^{-x^2 - y^2}}{\left(3^{-x^2 - y^2} + 1\right)^2}$* Here are the partial derivative that leads us to find good results for our partners*
 
 ---
+<div id="badges">
+  <img src="https://github.com/ThiagoPanini/datadelivery/raw/main/docs/assets/imgs/logo-with-text.png?raw=true" alt="datadelivery-icon" width="145px">
+  <img src="https://github.com/ThiagoPanini/ThiagoPanini/raw/main/imgs/terraglue-logo.png?raw=true" alt="terraglue-icon" width="120px">
+</div>
 <h3 align="left">
-    🛒 My Solutions🎈 Try it out here: <a href="https://prettymapp.streamlit.app/">prettymapp on streamlit 🎈 </a>
-  One of the things I love is to contribute with the open source community. A few time ago, I decided to dedicate a good part of my time for create a kind of "solutions shelf" with projects that I really think that could be useful for the data community. This process   
-  was made by the creation of logotypes, visual identity and a real transformation on the projects to turn everything more friendly and easy to use. Some of the projects of this shelf can be found below.
+    🛒 My Solutions:
+  <p>
+    In the links above you can find the two main prototype that can give you an idea about app that suits your companies need. Check the content and during your experience let
+    me know what do you think about it. We can cacth a smart solution together.
+   </p>
 </h3>
 
 ### :hammer_and_wrench: Languages and Tools :
