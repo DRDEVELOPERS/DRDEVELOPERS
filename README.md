@@ -16,8 +16,8 @@
 
 ---
 <div id="badges">
-  <img src="https://github.com/ThiagoPanini/datadelivery/raw/main/docs/assets/imgs/logo-with-text.png?raw=true" alt="datadelivery-icon" width="145px">
-  <img src="https://github.com/ThiagoPanini/ThiagoPanini/raw/main/imgs/terraglue-logo.png?raw=true" alt="terraglue-icon" width="120px">
+  <img src="https://github.com/ThiagoPanini/datadelivery/raw/main/docs/assets/imgs/logo-with-tesxt.png?raw=true" alt="datadelivery-icon" width="145px">
+  <img src="https://github.com/ThiagoPanini/ThiagoPanini/raw/main/imgs/terragslue-logo.png?raw=true" alt="terraglue-icon" width="120px">
 </div>
 <h3 align="left">
     🛒 My Solutions:
